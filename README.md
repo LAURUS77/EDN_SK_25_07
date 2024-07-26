@@ -1,5 +1,8 @@
 # EDN_SK_25_07
 PROJETOS SOFTSKILLS EDN
 
+#PROJETO INICIAL
+
+
 # IMAGEM
-![imagem](https://github.com/LAURUS77/EDN_SK_25_07/blob/main/Organo_sala_01_soft%20Skills.drawio)
+![imagem](https://github.com/LAURUS77/EDN_SK_25_07/blob/main/WhatsApp%20Image%202024-07-25%20at%2020.06.16.jpeg)
